@@ -1,3 +1,10 @@
+<div align="right">
+  <table align="right">
+   <tr><a href="README.md"> 🇺🇸 English</a></tr>
+   <tr><a href="README_pt.md"> 🇧🇷 Português</a></tr>
+  </table>
+</div>
+
 # Hello, I'm Erika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <img align="right" alt="cat-coding" src="https://raw.githubusercontent.com/erika0liveira/erika0liveira/main/coding.gif?token=GHSAT0AAAAAABRCXJJAJTSBF4V6XUE7Q3JQYQLDBAQ" width="300px" />
